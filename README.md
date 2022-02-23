@@ -1,1 +1,1 @@
-# BioLoc
+# Biological-inspired Lifelong Place Recogntiion Framework
