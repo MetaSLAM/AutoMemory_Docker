@@ -4,7 +4,7 @@
 :toclevels: 2
 
 ifdef::env-github[]
-image:https://youtu.be/PPOmyz2UVIw/maxresdefault.jpg[link=https://youtu.be/PPOmyz2UVIw]
+image:https://img.youtube.com/vi/PPOmyz2UVIw/maxresdefault.jpg[link=https://youtu.be/PPOmyz2UVIw]
 endif::[]
 
 
